@@ -1,0 +1,7 @@
+{
+  "name": "ALPD - Automatic License Plate Detector",
+  "description": "A high-performance vehicle number plate recognition system powered by Gemini Vision AI. Upload vehicle photos to instantly extract license plate text with high accuracy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
